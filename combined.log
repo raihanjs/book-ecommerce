@@ -360,3 +360,94 @@
 {"level":"info","message":"Server running in development mode on port 5000"}
 {"level":"info","message":"GET /api/auth/google"}
 {"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQHlOkPdWIsWS38UbDmVMgpS2l7xZ6dipRSjYsHh49Zq13-iuPTK28dQpdQbIBQu6w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=2&limit=5"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/imported-countries"}
+{"level":"info","message":"GET /api/books?page=1&limit=5"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books?keyword=harry&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=dossu&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=ho&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=philosophical&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=10.99&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=Fiction&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=fiction&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?sort=name&order=asc&page=1&limit=5"}
+{"level":"info","message":"GET /api/books?sort=name&order=asc&page=2&limit=5"}
+{"level":"info","message":"GET /api/books?keyword=harry&sort=price&order=asc&page=1&limit=5"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}

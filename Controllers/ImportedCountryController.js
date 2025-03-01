@@ -1,5 +1,5 @@
 // controllers/importedCountryController.js
-const ImportedCountry = require('../models/ImportedCountry');
+const ImportedCountry = require('../Models/ImportedCountry');
 
 // @desc    Get all imported countries
 // @route   GET /api/imported-countries
