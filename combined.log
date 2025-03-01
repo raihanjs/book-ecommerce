@@ -1,0 +1,362 @@
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/v1"}
+{"level":"info","message":"GET /api"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api//books"}
+{"level":"info","message":"GET /api//books"}
+{"level":"info","message":"GET /api//books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/category"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/category"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/writers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/writers"}
+{"level":"info","message":"GET /api/writers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books/907f1f77bcf86cd799439061"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/categories/507f1f77bcf86cd799439021"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/subcategories/607f1f77bcf86cd799439031"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/subcategories/607f1f77bcf86cd799439031"}
+{"level":"info","message":"GET /api/writers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/categories"}
+{"level":"info","message":"GET /api/subcategories"}
+{"level":"info","message":"GET /api/writers"}
+{"level":"info","message":"GET /api/publishers"}
+{"level":"info","message":"POST /api/books"}
+{"level":"info","message":"POST /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/books"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/signup"}
+{"level":"info","message":"POST /api/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/login"}
+{"level":"info","message":"POST /api/auth/login"}
+{"level":"info","message":"POST /api/auth/login"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/google-login"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"POST /api/auth/signup"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"POST /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQH5UrH1UxB0gL-48zfqBX1k7MLKtuXf_BFJLC8WQIoVh9nxVHjhdUla74LPUyjrFg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQHM1K8KM7kiSLZ3KDxQWANOZ3nJfQlHGNzyP00LzFjH36OVrvSkwQ3Yjpvv1DaXxg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none"}
+{"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQEIxwEogFnEtb_l7FvIzEOios4P-SHlh955ZCXNJ7_99yWj8J8jJXM2hzboAFx4Pw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&prompt=consent"}
+{"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQEIxwEogFnEtb_l7FvIzEOios4P-SHlh955ZCXNJ7_99yWj8J8jJXM2hzboAFx4Pw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&prompt=consent"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQER3E73YpBapIyker19k53DHgE1CtUX-Mp8MTV4dDuDUlsjYr3376kYjRwVs4l0vg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none"}
+{"level":"info","message":"Server running in development mode on port 5000"}
+{"level":"info","message":"GET /api/auth/google"}
+{"level":"info","message":"GET /api/auth/google/callback?code=4%2F0AQSTgQHlOkPdWIsWS38UbDmVMgpS2l7xZ6dipRSjYsHh49Zq13-iuPTK28dQpdQbIBQu6w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none"}
